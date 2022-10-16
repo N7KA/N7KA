@@ -32,7 +32,7 @@
 
 [Python. Курс для начинающих](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
 
-[Введение в кибербезопасность](..main//Certificates/Введение%20в%20кибербезопасность.jpg)
+[Введение в кибербезопасность](..main/Certificates/Введение%20в%20кибербезопасность.jpg)
 
 [Git И GitHub](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
 
