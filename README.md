@@ -4,7 +4,7 @@
 ### Базовый уровень
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Android Studio](https://img.shields.io/badge/androidstudio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=yellow)
+![Android Studio](https://img.shields.io/badge/androidstudio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=green)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
