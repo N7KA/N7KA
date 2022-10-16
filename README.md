@@ -33,4 +33,6 @@
 
 <a href="/Certificates/Введение%20в%20кибербезопасность.jpg">Введение в кибербезопасность</a>
 
+<a href="/Certificates/Изучаем%20Git%20И%20GitHub.jpg">Git И GitHub</a>
+
 ## О себе
