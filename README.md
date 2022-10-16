@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Fiddler](https://img.shields.io/badge/Fiddler-green?style=for-the-badge&logo=Fiddler&logoColor=white)
 
-
 ### Продвинутый уровень
 ![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/msoffice-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
