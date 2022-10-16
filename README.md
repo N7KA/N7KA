@@ -2,7 +2,7 @@
 
 ## Инструменты
 ### Базовый уровень
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=green)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=A6A9AA)
 ![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Fiddler](https://img.shields.io/badge/Fiddler-green?style=for-the-badge&logo=Fiddler&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-green?style=for-the-badge&logo=fiddler&logoColor=white)
 
 ### Продвинутый уровень
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
