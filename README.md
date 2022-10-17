@@ -20,11 +20,15 @@
 ![Windows](https://img.shields.io/badge/windows-3DDC84?style=for-the-badge&logo=windows&logoColor=black)
 
 ## Образование
-+ ### ***Липецкий государственный педагогический универcитет***
++ ### ***Липецкий государственный педагогический университет***
 
   **Факультет физико-математических и компьютерных наук**
 
   Специалист по защите информации
+
++ ### ***Липецкий машиностроительный колледж***
+  
+  Техник по монтажу и эксплуатации внутренних санитарно-технических устройств и систем вентиляции
 
 ## Сертификаты
 [Тестирование ПО с нуля до специалиста](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)
@@ -48,3 +52,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N7KA)
+
+
