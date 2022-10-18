@@ -73,10 +73,9 @@
 
 [Основы современных космических и сквозных технологий цифровой экономики](../main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)
 
+## ***Опыт работы***
+
 ## ***О себе***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N7KA)
-
 
