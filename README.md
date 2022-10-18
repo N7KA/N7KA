@@ -94,4 +94,4 @@
 ## ***Я в сети***
 
 [![Telegram](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335)](anton.a.chursin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
