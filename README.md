@@ -56,6 +56,10 @@
 *Дальневосточный федеральный университет*  
 [Сертификат](../main/Certificates/Введение%20в%20кибербезопасность.jpg)
 
+  - **Введение в сетевые технологии**  
+*Дальневосточный федеральный университет*  
+[Сертификат](../main/Certificates/Введение%20в%20сетевые%20технологии.jpg)
+
   - **Git И GitHub**  
 *Swiftbook*  
 [Сертификат](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
@@ -68,11 +72,11 @@
 
 + ### ***Яндекс***  
   **Младший специалист ручного тестирования**  (6 мес)  
-  Ручное тестирование сервисов Яндекc (Web-приложеня, android) по готовым чек-листам.
-  Функциональное тестирование сервисов.
-  Тестирование доступности.
-  Тестирование интерфейса.
-  Написание баг-репортов.
+  Ручное тестирование сервисов Яндекc (Web-приложеня, android) по готовым чек-листам.  
+  Функциональное тестирование сервисов.  
+  Тестирование доступности.  
+  Тестирование интерфейса.  
+  Написание баг-репортов.  
   Использование при тестировании DevTools, Fiddler, NVDA.
 
 + ### ***ЭЛЕКТРОПРОМСНАБ (Русский свет)***  
@@ -90,3 +94,9 @@
   **Продавец-консультант** (3 года 4 мес)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N7KA)
+
+---
+[![Telegram](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
