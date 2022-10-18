@@ -98,5 +98,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N7KA)
 
 ---
-[![Telegram](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
+[![Telegram](https://img.shields.io/badge/telegram-white?style=social&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=social&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
