@@ -1,4 +1,4 @@
-# ***Антон Чурсин*** [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
+# ***Антон Чурсин***
 
 ## ***Инструменты***
 ### **Базовый уровень**
@@ -91,3 +91,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
 
+## ***Я в сети***
+[![Telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
