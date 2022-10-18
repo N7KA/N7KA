@@ -94,7 +94,3 @@
   **Продавец-консультант** (3 года 4 мес)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
-
----
-[![Telegram](https://img.shields.io/badge/telegram-white?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/xn7kax)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
