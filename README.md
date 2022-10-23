@@ -16,7 +16,7 @@
 ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black)
 ![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Redmine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
 
 ![Fiddler](https://img.shields.io/badge/fiddler-green?style=for-the-badge&logo=fiddler&logoColor=white)
 
