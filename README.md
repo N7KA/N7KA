@@ -126,3 +126,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=social&logo=WhatsApp&logoColor=25D366)]()
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=social&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-white?style=social&logo=Skype&logoColor=26A5E4)](https://join.skype.com/invite/E8LfPXIfr4Mv)
+
+---
+> **Закон Хлейда**  
+> Самую сложную задачу необходимо дать самому ленивому сотруднику.  
+> Он обязательно найдет легкий и качественный способ ее решения.  
+> Ведь лентяй не будет усложнять себе жизнь и выполнит работу сразу хорошо, чтобы потом не надо было ее переделывать.
