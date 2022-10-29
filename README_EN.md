@@ -37,49 +37,49 @@
 ![Microsoft Office](https://img.shields.io/badge/ms%20office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-3DDC84?style=for-the-badge&logo=windows&logoColor=black)
 
-## ***Образование***
+## Education
 
-+ ### ***Липецкий государственный педагогический университет***
++ ### ***Lipetsk State Pedagogical University***
 
-  **Факультет физико-математических и компьютерных наук**
+  **Faculty of Physical, Mathematical and Computer Sciences**
 
-  Специалист по защите информации
+  Information Security Specialist
 
-+ ### ***Липецкий машиностроительный колледж***
++ ### ***Lipetsk Engineering College***
 
-  Техник по монтажу и эксплуатации внутренних санитарно-технических устройств и систем вентиляции
+  Technician for installation and operation of internal sanitary devices and ventilation systems
 
-+ ### ***Курсы***
++ ### ***Courses***
 
-  + **Тестирование ПО для начинающих**  
-*[Stepik](../main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
+  + **Software testing for beginners**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
 
-  + **Тестирование ПО с нуля до специалиста.**  
-*[Stepik](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
+  + **Software testing from scratch to a specialist**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
 
-  + **Тестирование ПО. Postman для тестирования API**  
-*[Stepik](../main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
+  + **Software testing. Postman for API testing**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
 
-  + **Тестирование ПО. Подготовка к сертификации ISTQB**  
-*[Stepik](../main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
+  + **Software testing. Preparation for ISTQB certification**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
 
-  + **Веб-разработка для начинающих. HTML и CSS**  
-*[Stepik](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
+  + **Web development for beginners. HTML & CSS**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
 
-  + **Python. Курс для начинающих**  
-*[Stepik и Благотворительный фонд "iq option"](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
+  + **Python. Course for beginners**  
+*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
 
-  + **Введение в кибербезопасность**  
-*[Дальневосточный федеральный университет](../main/Certificates/Введение%20в%20кибербезопасность.jpg)*
+  + **Introduction to Cybersecurity**  
+*[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg)*
 
-  + **Введение в сетевые технологии**  
-*[Дальневосточный федеральный университет](../main/Certificates/Введение%20в%20сетевые%20технологии.jpg)*
+  + **Introduction to Network technologies**  
+[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg)
 
-  + **Git И GitHub**  
-*[Swiftbook](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
+  + **Git & GitHub**  
+*[Swiftbook](https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
 
-  + **Основы современных космических и сквозных технологий цифровой экономики**  
-*[Арктурус](../main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
+  + **Fundamentals of modern space and end-to-end technologies of the digital economy**  
+*[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
 
 ## ***Опыт работы***
 
