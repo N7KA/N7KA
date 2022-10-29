@@ -1,4 +1,4 @@
-[![Русский](https://img.shields.io/badge/Русский-green?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
+[![Русский](https://img.shields.io/badge/Русский-green?style=flat)](https://github.com/N7KA/N7KA/blob/Second/README.md)
 [![Английский](https://img.shields.io/badge/Английский-beige?style=flat)](https://github.com/N7KA/N7KA/blob/Second/README_EN.md)
 
 # ***Антон Чурсин***
