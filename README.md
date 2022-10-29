@@ -1,5 +1,5 @@
 [![Русский](https://img.shields.io/badge/Русский-green?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
-[![Английский](https://img.shields.io/badge/Английский-beige?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
+[![Английский](https://img.shields.io/badge/Английский-beige?style=flat)](https://github.com/N7KA/N7KA/blob/main/README_En.md)
 
 # ***Антон Чурсин***
 
