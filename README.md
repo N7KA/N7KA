@@ -1,11 +1,11 @@
 # ***Антон Чурсин***
 
 ## ***Навыки***
-![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-beige?style=for-the-badge)
-![Аналитика](https://img.shields.io/badge/Аналитика-beige?style=for-the-badge)
-![Планирование](https://img.shields.io/badge/Планирование-beige?style=for-the-badge)
-![Амбициозность](https://img.shields.io/badge/Амбициозность-beige?style=for-the-badge)
-![Саморазвитие](https://img.shields.io/badge/Саморазвитие-beige?style=for-the-badge)
+![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-white?style=for-the-badge)
+![Аналитика](https://img.shields.io/badge/Аналитика-white?style=for-the-badge)
+![Планирование](https://img.shields.io/badge/Планирование-white?style=for-the-badge)
+![Амбициозность](https://img.shields.io/badge/Амбициозность-white?style=for-the-badge)
+![Саморазвитие](https://img.shields.io/badge/Саморазвитие-white?style=for-the-badge)
 
 ## ***Языки и Инструменты***
 
@@ -15,31 +15,30 @@
 ![SQLite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
 <!--
-![Selenium](https://img.shields.io/badge/selenium-beige?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)
 -->
 
-![Git](https://img.shields.io/badge/Git-beige?style=for-the-badge&logo=git&logoColor=F05032)
-![Github](https://img.shields.io/badge/Github-beige?style=for-the-badge&logo=github&logoColor=181717)
-![Figma](https://img.shields.io/badge/figma-beige?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Redmine](https://img.shields.io/badge/redmine-beige?style=for-the-badge&logo=redmine&logoColor=B32024)
-![VirtualBox](https://img.shields.io/badge/virtualbox-beige?style=for-the-badge&logo=virtualbox&logoColor=183A61)
-![Trello](https://img.shields.io/badge/Trello-beige?style=for-the-badge&logo=Trello&logoColor=0052CC)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
+![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=181717)
+![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Redmine](https://img.shields.io/badge/redmine-white?style=for-the-badge&logo=redmine&logoColor=B32024)
+![VirtualBox](https://img.shields.io/badge/virtualbox-white?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+![Trello](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0052CC)
 
-![Anaconda](https://img.shields.io/badge/anaconda-beige?style=for-the-badge&logo=anaconda&logoColor=44A833)
-![Fiddler](https://img.shields.io/badge/fiddler-beige?style=for-the-badge&logo=fiddler&logoColor=green)
-![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-beige?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
-![Android Studio](https://img.shields.io/badge/android%20studio-beige?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
-![Postman](https://img.shields.io/badge/postman-beige?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![Fiddler](https://img.shields.io/badge/fiddler-white?style=for-the-badge&logo=fiddler&logoColor=green)
+![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+![Android Studio](https://img.shields.io/badge/android%20studio-white?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
+![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### **Продвинутый уровень**
 
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-beige?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Microsoft Office](https://img.shields.io/badge/ms%20office-beige?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
-![Windows](https://img.shields.io/badge/windows-beige?style=for-the-badge&logo=windows&logoColor=3DDC84)
-![DevTools](https://img.shields.io/badge/DevTools-beige?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Microsoft Office](https://img.shields.io/badge/ms%20office-white?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=3DDC84)
+![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
 
 ## ***Образование***
 
