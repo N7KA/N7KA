@@ -1,4 +1,4 @@
-# ![](https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png) ***Anton Chursin***
+# ***Anton Chursin*** ![](https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png)
 
 ## ***Навыки***
 
