@@ -111,7 +111,7 @@
   **Технический специалист** (1 год 2 мес)  
   **Продавец-консультант** (3 года 4 мес)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=en&custom_title=Anton%20Chursin.%20Statistics%20GitHub)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N7KA)
 
