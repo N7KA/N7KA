@@ -5,6 +5,7 @@
 ![Аналитические](https://img.shields.io/badge/Аналитические-beige?style=for-the-badge)
 ![Планирование](https://img.shields.io/badge/Планирование-beige?style=for-the-badge)
 ![Амбициозность](https://img.shields.io/badge/Амбициозность-beige?style=for-the-badge)
+![Саморазвитие](https://img.shields.io/badge/Саморазвитие-beige?style=for-the-badge)
 
 ## ***Языки и Инструменты***
 
