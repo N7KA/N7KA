@@ -1,17 +1,17 @@
-[![Русский](https://img.shields.io/badge/Русский-green?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
-[![Английский](https://img.shields.io/badge/Английский-beige?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
+[![Russian](https://img.shields.io/badge/Russian-beige?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
+[![English](https://img.shields.io/badge/English-green?style=flat)](https://github.com/N7KA/N7KA/blob/main/README.md)
 
-# ***Антон Чурсин***
+# ***Anton Chursin***
 
-## ***Навыки***
-![Коммуникативные](https://img.shields.io/badge/Коммуникативные-beige?style=for-the-badge)
-![Аналитические](https://img.shields.io/badge/Аналитические-beige?style=for-the-badge)
-![Планирование](https://img.shields.io/badge/Планирование-beige?style=for-the-badge)
-![Амбициозность](https://img.shields.io/badge/Амбициозность-beige?style=for-the-badge)
+## ***Skills***
+![Communicative](https://img.shields.io/badge/Communicative-beige?style=for-the-badge)
+![Analytical](https://img.shields.io/badge/Analytical-beige?style=for-the-badge)
+![Planning](https://img.shields.io/badge/Planning-beige?style=for-the-badge)
+![Ambition](https://img.shields.io/badge/Ambition-beige?style=for-the-badge)
 
-## ***Инструменты***
+## ***Language and Tools***
 
-### **Базовый уровень**
+### **Basic level**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
@@ -31,7 +31,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=green)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Продвинутый уровень**
+### **Advanced level**
 
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![Microsoft Office](https://img.shields.io/badge/ms%20office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
