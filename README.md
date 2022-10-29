@@ -1,13 +1,14 @@
 # ***Антон Чурсин***
 
 ## ***Навыки***
-
-**Коммуникативные. Аналитические. Планирование. Стрессоустойчивость. Амбициозность.**
+![Коммуникативные](https://img.shields.io/badge/Коммуникативные-beige?style=for-the-badge)
+![Аналитические](https://img.shields.io/badge/Аналитические-beige?style=for-the-badge)
+![Планирование](https://img.shields.io/badge/Планирование-beige?style=for-the-badge)
+![Амбициозность](https://img.shields.io/badge/Амбициозность-beige?style=for-the-badge)
 
 ## ***Инструменты***
 
 ### **Базовый уровень**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
