@@ -1,6 +1,5 @@
-<table>
-<tr><th href="https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png")></th></th><th><h>Anton Chursin</h></th></tr>
-</table>
+![](https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png)
+# ***Anton Chursin***
 
 ## ***Навыки***
 
