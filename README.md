@@ -11,34 +11,35 @@
 
 ### **Базовый уровень**
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=A6A9AA)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
-![Redmine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQLite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
 <!--
-![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=black)
-
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black)
+![Selenium](https://img.shields.io/badge/selenium-beige?style=for-the-badge&logo=selenium&logoColor=43B02A)
 -->
-![Fiddler](https://img.shields.io/badge/fiddler-green?style=for-the-badge&logo=fiddler&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=green)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-beige?style=for-the-badge&logo=git&logoColor=F05032)
+![Github](https://img.shields.io/badge/Github-beige?style=for-the-badge&logo=github&logoColor=181717)
+![Figma](https://img.shields.io/badge/figma-beige?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Redmine](https://img.shields.io/badge/redmine-beige?style=for-the-badge&logo=redmine&logoColor=B32024)
+![VirtualBox](https://img.shields.io/badge/virtualbox-beige?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+![Trello](https://img.shields.io/badge/Trello-beige?style=for-the-badge&logo=Trello&logoColor=0052CC)
+
+![Anaconda](https://img.shields.io/badge/anaconda-beige?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![Fiddler](https://img.shields.io/badge/fiddler-beige?style=for-the-badge&logo=fiddler&logoColor=green)
+![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-beige?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+![Android Studio](https://img.shields.io/badge/android%20studio-beige?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
+![Postman](https://img.shields.io/badge/postman-beige?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### **Продвинутый уровень**
 
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/ms%20office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
-![Windows](https://img.shields.io/badge/windows-3DDC84?style=for-the-badge&logo=windows&logoColor=black)
-![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-beige?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Microsoft Office](https://img.shields.io/badge/ms%20office-beige?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+![Windows](https://img.shields.io/badge/windows-beige?style=for-the-badge&logo=windows&logoColor=3DDC84)
+![DevTools](https://img.shields.io/badge/DevTools-beige?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
 
 ## ***Образование***
 
@@ -78,7 +79,7 @@
   + **Введение в сетевые технологии**  
 *[Дальневосточный федеральный университет](../main/Certificates/Введение%20в%20сетевые%20технологии.jpg)*
 
-  + **Git И GitHub**  
+  + **Git и GitHub**  
 *[Swiftbook](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
 
   + **Основы современных космических и сквозных технологий цифровой экономики**  
@@ -87,7 +88,6 @@
 ## ***Опыт работы***
 
 + ### ***Яндекс***  
-
   **Младший специалист ручного тестирования**  (9 мес)  
   Ручное тестирование Web, android.  
   Функциональное тестирование сервисов.  
@@ -96,19 +96,15 @@
   Написание баг-репортов.  
 
 + ### ***ЭЛЕКТРОПРОМСНАБ (Русский свет)***  
-
   **Менеджер по продажам** (3 года)
 
 + ### ***ТД Новосел***
-
   **Менеджер (Руководитель)** (4 года 2 мес)
 
 + ### ***ТАНДЕР (Сеть магазинов Магнит)***  
-
   **Директор** (1 год)
 
 + ### ***ЭЛЬДОРАДО***  
-
   **Супервайзер** (2 года 10 мес)  
   **Технический специалист** (1 год 2 мес)  
   **Продавец-консультант** (3 года 4 мес)
