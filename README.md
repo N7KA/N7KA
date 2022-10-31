@@ -11,17 +11,17 @@
 
 ### **Базовый уровень**
 
-![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
 ![SQLite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
+[![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
+[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
 
 <!--
 ![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)
 -->
 
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)
-![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=181717)
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
+[![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=181717)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
 ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Redmine](https://img.shields.io/badge/redmine-white?style=for-the-badge&logo=redmine&logoColor=B32024)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-white?style=for-the-badge&logo=virtualbox&logoColor=183A61)
@@ -29,9 +29,9 @@
 
 ![Anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833)
 ![Fiddler](https://img.shields.io/badge/fiddler-white?style=for-the-badge&logo=fiddler&logoColor=green)
-![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+[![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=D22128)](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)
 ![Android Studio](https://img.shields.io/badge/android%20studio-white?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
-![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
+[![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)](../main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)
 
 ### **Продвинутый уровень**
 
@@ -43,44 +43,31 @@
 ## ***Образование***
 
 + ### ***Липецкий государственный педагогический университет***
-
-  **Факультет физико-математических и компьютерных наук**
-
+  **Факультет физико-математических и компьютерных наук**  
   Специалист по защите информации
 
 + ### ***Липецкий машиностроительный колледж***
-
   Техник по монтажу и эксплуатации внутренних санитарно-технических устройств и систем вентиляции
 
 + ### ***Курсы***
-
   + **Тестирование ПО для начинающих**  
 *[Stepik](../main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
-
   + **Тестирование ПО с нуля до специалиста.**  
 *[Stepik](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
-
   + **Тестирование ПО. Postman для тестирования API**  
 *[Stepik](../main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
-
   + **Тестирование ПО. Подготовка к сертификации ISTQB**  
 *[Stepik](../main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
-
   + **Веб-разработка для начинающих. HTML и CSS**  
 *[Stepik](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
-
   + **Python. Курс для начинающих**  
 *[Stepik и Благотворительный фонд "iq option"](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
-
   + **Введение в кибербезопасность**  
 *[Дальневосточный федеральный университет](../main/Certificates/Введение%20в%20кибербезопасность.jpg)*
-
   + **Введение в сетевые технологии**  
 *[Дальневосточный федеральный университет](../main/Certificates/Введение%20в%20сетевые%20технологии.jpg)*
-
   + **Git и GitHub**  
 *[Swiftbook](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
-
   + **Основы современных космических и сквозных технологий цифровой экономики**  
 *[Арктурус](../main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
 
