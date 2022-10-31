@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
 ![SQLite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
 [![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
-[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)<!--![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)-->  
+[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)<!--![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)--><!--![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)-->  
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
 [![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=181717)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
 ![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
