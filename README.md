@@ -1,11 +1,5 @@
 # ***Антон Чурсин***
 
-### ***Контакты***
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=social&logo=Telegram&logoColor=26A5E4)](https://t.me/xn7kax) <!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=social&logo=WhatsApp&logoColor=25D366)]()--> [![Gmail](https://img.shields.io/badge/Gmail-white?style=social&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
-[![Skype](https://img.shields.io/badge/Skype-white?style=social&logo=Skype&logoColor=26A5E4)](https://join.skype.com/invite/E8LfPXIfr4Mv)
-
----
-
 ## ***Навыки***
 ![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-white?style=for-the-badge)
 ![Аналитика](https://img.shields.io/badge/Аналитика-white?style=for-the-badge)
@@ -107,3 +101,7 @@
   **Продавец-консультант** (3 года 4 мес)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7KA&count_private=true&show_icons=true&theme=white&locale=ru&custom_title=Антон%20Чурсин.%20Статистика%20GitHub)
+
+## ***Контакты***
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=social&logo=Telegram&logoColor=26A5E4)](https://t.me/xn7kax) <!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=social&logo=WhatsApp&logoColor=25D366)]()--> [![Gmail](https://img.shields.io/badge/Gmail-white?style=social&logo=Gmail&logoColor=EA4335)](mailto:anton.a.chursin@gmail.com)
+[![Skype](https://img.shields.io/badge/Skype-white?style=social&logo=Skype&logoColor=26A5E4)](https://join.skype.com/invite/E8LfPXIfr4Mv)
