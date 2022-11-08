@@ -51,7 +51,7 @@
   + **Git и GitHub**  
 *[Swiftbook. Сертификат](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
 
-  ### **[Полный список](../Education.md)**
+  ### **[Полный список](../assets/Education.md)**
 
 ## ***Опыт работы***
 
