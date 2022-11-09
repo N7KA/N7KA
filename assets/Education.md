@@ -33,4 +33,4 @@
 ## ***Интенсивы***
 
 + Интенсив по UX/UI дизайну  
-  *[Айтилогия. Сертификат](../main/Certificates/UX.UI%20Start.jpeg)* 
+  *[Айтилогия. Сертификат](../Certificates/UX.UI%20Start.jpeg)* 
