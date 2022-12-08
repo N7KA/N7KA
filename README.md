@@ -1,11 +1,11 @@
 # ***Антон Чурсин***
 
 ## ***Навыки***
-![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-white?style=for-the-badge)
-![Аналитика](https://img.shields.io/badge/Аналитика-white?style=for-the-badge)
-![Планирование](https://img.shields.io/badge/Планирование-white?style=for-the-badge)
-![Амбициозность](https://img.shields.io/badge/Амбициозность-white?style=for-the-badge)
-![Саморазвитие](https://img.shields.io/badge/Саморазвитие-white?style=for-the-badge)
+![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-rgba(125,125,125,0)?style=for-the-badge)
+![Аналитика](https://img.shields.io/badge/Аналитика-rgba(125,125,125,0)?style=for-the-badge)
+![Планирование](https://img.shields.io/badge/Планирование-rgba(125,125,125,0)?style=for-the-badge)
+![Амбициозность](https://img.shields.io/badge/Амбициозность-rgba(125,125,125,0)?style=for-the-badge)
+![Саморазвитие](https://img.shields.io/badge/Саморазвитие-rgba(125,125,125,0)?style=for-the-badge)
 
 ## ***Языки и Инструменты***
 
