@@ -30,10 +30,10 @@
 
 ### **Продвинутый уровень**
 
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Microsoft Office](https://img.shields.io/badge/ms%20office-white?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
-![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
-![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-rgba(255,255,255,0)?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Microsoft Office](https://img.shields.io/badge/ms%20office-rgba(255,255,255,0)?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+![Windows](https://img.shields.io/badge/windows-rgba(255,255,255,0)?style=for-the-badge&logo=windows&logoColor=0078D6)
+![DevTools](https://img.shields.io/badge/DevTools-rgba(255,255,255,0)?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
 
 ## ***Образование***
 
