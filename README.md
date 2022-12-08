@@ -16,7 +16,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-rgba(255,255,255,0)?style=for-the-badge&logo=HTML5&logoColor=E34F26)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
 [![CSS3](https://img.shields.io/badge/css3-rgba(255,255,255,0)?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)<!--![JavaScript](https://img.shields.io/badge/JavaScript-rgba(255,255,255,0)?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)--><!--![Selenium](https://img.shields.io/badge/selenium-rgba(255,255,255,0)?style=for-the-badge&logo=selenium&logoColor=43B02A)-->  
 [![Git](https://img.shields.io/badge/Git-rgba(255,255,255,0)?style=for-the-badge&logo=git&logoColor=F05032)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
-[![Github](https://img.shields.io/badge/Github-rgba(255,255,255,0)?style=for-the-badge&logo=github&logoColor=181717)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
+[![Github](https://img.shields.io/badge/Github-rgba(255,255,255,0)?style=for-the-badge&logo=github&logoColor=gray)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
 [![Figma](https://img.shields.io/badge/figma-rgba(255,255,255,0)?style=for-the-badge&logo=figma&logoColor=F24E1E)](../main/Certificates/Основы%20Figma%20Нетология.jpg)
 ![Redmine](https://img.shields.io/badge/redmine-rgba(255,255,255,0)?style=for-the-badge&logo=redmine&logoColor=B32024)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-rgba(255,255,255,0)?style=for-the-badge&logo=virtualbox&logoColor=183A61)
