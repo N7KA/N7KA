@@ -1,32 +1,32 @@
 # ***Антон Чурсин***
 
 ## ***Навыки***
-![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-rgba(125,125,125,0)?style=for-the-badge)
-![Аналитика](https://img.shields.io/badge/Аналитика-rgba(125,125,125,0)?style=for-the-badge)
-![Планирование](https://img.shields.io/badge/Планирование-rgba(125,125,125,0)?style=for-the-badge)
-![Амбициозность](https://img.shields.io/badge/Амбициозность-rgba(125,125,125,0)?style=for-the-badge)
-![Саморазвитие](https://img.shields.io/badge/Саморазвитие-rgba(125,125,125,0)?style=for-the-badge)
+![Коммуникабельность](https://img.shields.io/badge/Коммуникабельность-white?style=for-the-badge)
+![Аналитика](https://img.shields.io/badge/Аналитика-white?style=for-the-badge)
+![Планирование](https://img.shields.io/badge/Планирование-white?style=for-the-badge)
+![Амбициозность](https://img.shields.io/badge/Амбициозность-white?style=for-the-badge)
+![Саморазвитие](https://img.shields.io/badge/Саморазвитие-white?style=for-the-badge)
 
 ## ***Языки и Инструменты***
 
 ### **Базовый уровень**
 
-[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB)](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
-![SQLite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57)
-[![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=E34F26)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
-[![CSS3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)<!--![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)--><!--![Selenium](https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)-->  
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
-[![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=181717)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
-[![Figma](https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)](../main/Certificates/Основы%20Figma%20Нетология.jpg)
-![Redmine](https://img.shields.io/badge/redmine-white?style=for-the-badge&logo=redmine&logoColor=B32024)
-![VirtualBox](https://img.shields.io/badge/virtualbox-white?style=for-the-badge&logo=virtualbox&logoColor=183A61)
-![Trello](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=Trello&logoColor=0052CC)
-![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)  
-![Anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=44A833)
-![Fiddler](https://img.shields.io/badge/fiddler-white?style=for-the-badge&logo=fiddler&logoColor=green)
-[![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-white?style=for-the-badge&logo=apachejmeter&logoColor=D22128)](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)
-![Android Studio](https://img.shields.io/badge/android%20studio-white?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
-[![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)](../main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)
+[![Python](https://img.shields.io/badge/python-rgba(255,255,255,0)?style=for-the-badge&logo=python&logoColor=3776AB)](../main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
+![SQLite](https://img.shields.io/badge/sqlite-rgba(255,255,255,0)?style=for-the-badge&logo=sqlite&logoColor=003B57)
+[![HTML5](https://img.shields.io/badge/HTML5-rgba(255,255,255,0)?style=for-the-badge&logo=HTML5&logoColor=E34F26)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
+[![CSS3](https://img.shields.io/badge/css3-rgba(255,255,255,0)?style=for-the-badge&logo=css3&logoColor=1572B6)](../main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)<!--![JavaScript](https://img.shields.io/badge/JavaScript-rgba(255,255,255,0)?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)--><!--![Selenium](https://img.shields.io/badge/selenium-rgba(255,255,255,0)?style=for-the-badge&logo=selenium&logoColor=43B02A)-->  
+[![Git](https://img.shields.io/badge/Git-rgba(255,255,255,0)?style=for-the-badge&logo=git&logoColor=F05032)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
+[![Github](https://img.shields.io/badge/Github-rgba(255,255,255,0)?style=for-the-badge&logo=github&logoColor=181717)](../main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
+[![Figma](https://img.shields.io/badge/figma-rgba(255,255,255,0)?style=for-the-badge&logo=figma&logoColor=F24E1E)](../main/Certificates/Основы%20Figma%20Нетология.jpg)
+![Redmine](https://img.shields.io/badge/redmine-rgba(255,255,255,0)?style=for-the-badge&logo=redmine&logoColor=B32024)
+![VirtualBox](https://img.shields.io/badge/virtualbox-rgba(255,255,255,0)?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+![Trello](https://img.shields.io/badge/Trello-rgba(255,255,255,0)?style=for-the-badge&logo=Trello&logoColor=0052CC)
+![Jira](https://img.shields.io/badge/Jira-rgba(255,255,255,0)?style=for-the-badge&logo=Jira&logoColor=0052CC)  
+![Anaconda](https://img.shields.io/badge/anaconda-rgba(255,255,255,0)?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![Fiddler](https://img.shields.io/badge/fiddler-rgba(255,255,255,0)?style=for-the-badge&logo=fiddler&logoColor=green)
+[![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-rgba(255,255,255,0)?style=for-the-badge&logo=apachejmeter&logoColor=D22128)](../main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)
+![Android Studio](https://img.shields.io/badge/android%20studio-rgba(255,255,255,0)?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
+[![Postman](https://img.shields.io/badge/postman-rgba(255,255,255,0)?style=for-the-badge&logo=postman&logoColor=FF6C37)](../main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)
 
 ### **Продвинутый уровень**
 
